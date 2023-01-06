@@ -4,7 +4,9 @@ import java.util.Scanner;
 import java.util.stream.IntStream;
 
 public class MinMax {
-    //check1
+//    check3
+
+
     //check2
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

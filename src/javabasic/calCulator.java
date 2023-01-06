@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class calCulator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+//        hi
         System.out.println("choose the operation required \n1.Addition \n 2.Subtraction \n3.Multiplication");
         int operation = sc.nextInt();
         if (operation != 1 && operation != 2 && operation != 3) {
