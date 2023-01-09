@@ -8,9 +8,10 @@ public class FlowTwo {
         int n = sc.nextInt();
         if (n < 0) {
             System.out.println("error");
-        } else {
-            System.out.println(n * (n + 1));
+            return;
         }
+            System.out.println(n * (n + 1)/2);
+
 
     }
 }
