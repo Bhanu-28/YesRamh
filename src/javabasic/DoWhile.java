@@ -7,6 +7,7 @@ public class DoWhile {
         do{
             System.out.println("yes");
             i++;
-        }while(i<10);
+        }while(i<30);
+        System.out.println(i);
     }
 }

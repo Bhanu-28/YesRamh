@@ -8,6 +8,7 @@ public class whileLoop {
 
         while(true) {
             System.out.println("hey");
+            break;
         }
     }
 }

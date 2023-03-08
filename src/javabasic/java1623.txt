@@ -22,3 +22,15 @@ The main method is the entry point of a Java program and is where the program's 
 
 
 
+Sure, I'll explain each step in more detail:
+
+public static void main(String[] args): This line defines the main method of the Java program, which is the entry point of the program. The public keyword indicates that the method can be accessed from anywhere in the program, the static keyword means that the method belongs to the class rather than an instance of the class, and the void keyword means that the method doesn't return a value. The String[] args parameter is an array of strings that can be passed as command-line arguments to the program.
+
+Scanner sc = new Scanner(System.in);: This line creates a new instance of the Scanner class that reads input from the standard input stream (System.in). The System.in object represents the standard input stream, which by default is the keyboard. The Scanner class provides methods for reading different types of data from an input stream.
+
+System.out.println("enter the number");: This line prints the string "enter the number" to the console. The System.out object represents the standard output stream, which by default is the console.
+
+int p = sc.nextInt();: This line reads an integer value from the standard input stream using the nextInt() method of the Scanner class. The value entered by the user is stored in the integer variable p.
+
+In summary, this code prompts the user to enter an integer value and stores the input value in the variable p. The program then terminates.
+
