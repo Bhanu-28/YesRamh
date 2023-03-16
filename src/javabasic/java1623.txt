@@ -34,3 +34,79 @@ int p = sc.nextInt();: This line reads an integer value from the standard input 
 
 In summary, this code prompts the user to enter an integer value and stores the input value in the variable p. The program then terminates.
 
+Arrays in java are normal class objects
+in c & c++ there we have arrays that hold address of memory block
+in java array variables are references to objects like they are
+normal class objects so they have members like length is
+a direct member like dog.breed like that members .
+
+in c and c++ when u write functions that take array
+as an argument u required to pass length of array as
+additional argument but java length is avaible
+fnc get length using array.length
+
+//we can access an array in indexs
+begin with 0
+they are at contiguous location
+10 20 30 40
+0   1  2  3
+a[1] =50;{[1]a=50 both are same }
+it goes to that adress of index 1 changes value to 50
+
+different ways to create an array in java
+1st way
+declaring a variable a of int array type
+int[] a;
+after declare allocate memory
+
+how memory allocation works in java
+a is a reference varaible or local varaible to function
+where u have created it going to be stored in function called
+stack and this a = new int[3];
+dynamically allocated memory and its going to be created
+in Heap but dont have worry about heap allocated memory
+in c and c++ deallocated that and in java
+garbage collection happens automatically simply allocated
+and forget about deallocation
+
+
+int[] a = new int[3];
+a[0]=10;
+a[1]=20;
+a[2]=30;
+
+int[]a = {10,20,30}
+when create u dont know provide data later for use no
+
+int[]a = new int[3]
+int x=10;
+for(int i=0;i<a.length;i++)
+{
+a[i]=x;
+x=x+10;
+}
+indexes in array vary from 0 to length -1
+if u have array of size 5 indexes will be 0 to 4
+
+if u try to use an index which is not in valid range
+then java throws an exception array index out of bound
+
+java avoid runtime things while u developing code exception is
+thrown you can fix it
+
+int a[] b;
+data type is int and we specified that
+this is an array of int type
+when we didnt keep [] that means it was a normal variable
+b is an integer
+
+int[] a ,b
+here we changed data type itself
+so b is also array type here
+//error int cant be converted to int[]
+
+
+
+
+
+
