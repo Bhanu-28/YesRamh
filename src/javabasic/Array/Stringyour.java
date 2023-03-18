@@ -24,6 +24,10 @@ public class Stringyour {
         s6 = s6+"forgeeks"; //creates new object
         System.out.println(s6);
         System.out.println(s7);
+        if(s6==s7){
+            System.out.println("yeah");
+        }
+        else System.out.println("differ");
 
 
 
