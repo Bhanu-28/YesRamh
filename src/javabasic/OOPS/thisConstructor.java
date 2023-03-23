@@ -16,6 +16,7 @@ class Bhanu{
         this.y=y;
     }
     //start fri
+
     Bhanu(){
         this(10,10);
     }
