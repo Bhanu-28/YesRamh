@@ -1,0 +1,153 @@
+The "height of your success" cannot exceed the 
+"height" of your "personal development"
+
+Health wealth wealth Relationship mental peace social  
+constructor is a special function that runs when you create an object and it allocates some varaiables 
+cinecron 
+after java 8 days 60 hours angular training 
+business concern u should be production ready and war ready 
+direct after training into production into project and 
+sts 4.11 version 
+java technology introduction 
+
+language 
+
+listen         speak 		read 		write 
+
+concepts 	concepts 	concepts + programs 	programs 
+
+interaction 			
+
+
+java technology
+
+
+jse  			jee 			jme 
+
+standard 		enterprise 
+corejava 		|main business
+language fundamentals 	|
+constructor 		
+oops concepts 
+packages
+exception handling 
+multi threading 
+annotations 
+reflection
+
+no file handling  i/o
+jdbc
+|
+adv java 
+|socket programming 
+rmi 
+
+
+
+->jee
+*session 
+   |spring (software helps to make session)
+M1 <-----> M2,3,4...
+|	    | | |
+server	    clients 
+	|
+--------------------------
+stateless to statefull activity 
+air india 	book ticket 
+**entity 
+|orm
+
+----------------
+|	|
+BMP 	CMP(Container-managed persistence)
+bean 	jdbc queries are automated 
+managed
+persistence -> store object on db jdbcs queries are manually 
+handled 
+select /insert/update /delete 
+
+***message 
+
+sms mail whatsapp 
+
+
+java features robust platform independent jvm  object oriented 
+
+0.simple , no pointers no need of hardware background no 
+memory management legacy syntax from c++
+1.Write Once Run Anywhere (WORA)
+
+2. oops	
+3.multithread - download upload print spell checking cals
+4 . robust -automatic garbage collection exception handling 
+5 .secured -100% runs secure in a sand box it does not allows direct memmory access 
+6.dynamic 	- Account accObj = new Account();# dynamcially allocate any object 	
+accObj = new SavingsAccount();
+accObj = new CurrentAccount();
+7.distributed - server 		client 
+		A.class 	B.class
+vendor		Intel   	Sun
+|		|		|
+cpu 		x86		sparc
+|		|		|
+os 		ms -windows 	solaris 
+		|
+compiler  TC++/BC/MSvisual studio 
+		|
+Source  - Abc.cpp
+|
+compiler Abc.obj
+|
+Linker  Abc.exe
+|	
+run it 	running 
+
+
+screenshot taken 
+
+just copy code and run  on each compiler 
+
+
+.java 
+|
+byte code .class file 
+it will say jvm to fit this code in jvm and it will work and run 
+
+
+
+code compiled by u is going to run on virtual processor 
+virtual machine 
+
+jvm 
+
+jdk - java development kit 
+
+
+javac -d to create packages 
+[5:50 PM] Vishhal Dawane (Guest)
+
+javac -d . *.java
+
+
+start a thought in this day 
+
+what isa thought 
+radiation by thoutron whatever is faster than light is invisible 
+thoughtrons inside proton 
+
+
+public is avaaible throughout thei internet 
+import  avail the class token 
+
+
+declaring a class as public does not mean contents are public 
+
+if nothing is specified then default is there means same package members can access 
+
+Java Language Specification, Java SE 8 Edition, The (Java Series). by James J. Gosling | 5 May ... French Edition | by James P. Gosling | 26 February 2023
+
+
+
+
+
+
