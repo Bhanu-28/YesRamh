@@ -4,8 +4,12 @@ public class ConstructorTest {
     public static void main(String[] args){
 
        Flight flobj1 = new Flight();
+        Flight flobj2 = new Flight();
        flobj1.setFlight(3046,"indigo","vijayawada","Delhi");
+        flobj2.setFlight(9831,"indigo","vijayawada","Delhi");
+
        flobj1.showFlight();
+       flobj2.showFlight();
     }
 }
 
