@@ -18,7 +18,7 @@ public class palinDrome {
             start++;
             end--;
         }
-        if(isptr==true){
+        if(isptr){
             System.out.println("palindrome");
         }
         else {
